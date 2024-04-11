@@ -1,5 +1,5 @@
 # Ecommerce-Sales-Data-Analysis
-# live Dashboard Link : https://www.novypro.com/project/ecommerce-sales-dashboard--3
+## live Dashboard Link : https://www.novypro.com/project/ecommerce-sales-dashboard--3
 # Introduction:
 In the rapidly evolving landscape of e-commerce, businesses are constantly seeking insights to optimize their sales strategies and enhance customer experiences. This project presents an E-commerce Sales Analysis developed using Power BI, integrating data from various sources including SQL databases. The dashboard offers a comprehensive view of sales performance metrics, enabling stakeholders to make data-driven decisions and drive business growth.
 
